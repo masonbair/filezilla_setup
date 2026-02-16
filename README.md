@@ -22,7 +22,7 @@ Choose the basic free FileZilla version.
 
 ![Image](images/select_version.png)
 
-After installing FileZilla, follow the installation instructions. Decline any optional options, like the option related to installing Google Chrome. Have FileZilla installed only for yourself. Make sure to select the Desktop Icon option to be able to see FileZilla on your desktop space. Then just use the default recommendations for the rest of the setup.
+After downloading FileZilla, follow the installation instructions. Decline any optional options, like the option related to installing Google Chrome. Have FileZilla installed only for yourself. Make sure to select the Desktop Icon option to be able to see FileZilla on your desktop space. Then just use the default recommendations for the rest of the setup.
 
 ---
 
