@@ -1,4 +1,4 @@
-# FileZilla Setup Guide for University Professors
+# FileZilla Setup Guide for University Faculty and Students
 
 ## Overview
 
