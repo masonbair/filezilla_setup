@@ -14,7 +14,7 @@ The first thing you need to do is check on your computer to see if FileZilla is 
 
 ## Setup Process
 
-To begin, go [here](https://filezilla-project.org/) and download the FileZilla client.
+To begin, go [here](https://filezilla-project.org/download.php?show_all=1) and download the FileZilla client.
 
 ![Image](images/download_client.png)
 
