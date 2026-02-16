@@ -42,7 +42,7 @@ Click Quickconnect and then allow your computer to trust the host.
 
 Once a connection has been established, the next step is to find the HTML file on your personal computer that you want to add to the server. Then on the host, go to your **public_html** folder, double click to open it, and then drag and drop the files from your personal computer to the host machine.
 
-![Image](images/file_steps.png)
+![Image](images/transfer.png)
 
 ---
 
