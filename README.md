@@ -24,7 +24,7 @@ After downloading FileZilla, follow the installation instructions. Have FileZill
 
 ## Establishing a Connection
 
-![Image](images/filezilla_main.png)
+![Image](images/filezilla_main_new.png)
 
 For connecting, first understand what server you need to connect to. If you are in Math, connect to **www.math.kent.edu**, and if you are in CS, connect to **www.cs.kent.edu**.
 
