@@ -16,13 +16,9 @@ The first thing you need to do is check on your computer to see if FileZilla is 
 
 To begin, go [here](https://filezilla-project.org/download.php?show_all=1) and download the FileZilla client.
 
-![Image](images/download_client.png)
+![Image](images/download_filezilla.png)
 
-Choose the basic free FileZilla version.
-
-![Image](images/select_version.png)
-
-After downloading FileZilla, follow the installation instructions. Decline any optional options, like the option related to installing Google Chrome. Have FileZilla installed only for yourself. Make sure to select the Desktop Icon option to be able to see FileZilla on your desktop space. Then just use the default recommendations for the rest of the setup.
+After downloading FileZilla, follow the installation instructions. Have FileZilla installed only for yourself. Make sure to select the Desktop Icon option to be able to see FileZilla on your desktop space. Then just use the default recommendations for the rest of the setup.
 
 ---
 
